@@ -2,7 +2,7 @@
 
 ## About Multi-Auth
 
-It's a user based multiple authentication system build using laravel jetstream which has same features of a single user of jetstream like Login, Register, Email Verfication,Forgot Password, Two-Step Verification, Api Services, Logout other browser session and delete user for administrator and user.In this auth system has two database table for user and admin to achieve this things.
+It's a user based multiple authentication system build using Laravel Jetstream, It has same features of a single user of Jetstream like Login, Register, Email Verification, Forgot Password, Two-Step Verification, API Services, Logout other browser session and delete user etc. for administrator and user as well. 
 
 ## Installation
 - Download this project and extract it.
