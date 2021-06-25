@@ -5,11 +5,11 @@
 It's a user based multiple authentication system build using laravel jetstream which has same features of a single user of jetstream like Login, Register, Email Verfication,Forgot Password, Two-Step Verification, Api Services, Logout other browser session and delete user for administrator and user.In this auth system has two database table for user and admin to achieve this things.
 
 ## Installation
-- 1. Download this project and extract it.
-- 2. Open Command Prompt and Type **Composer Install** and then **npm install && npm run dev**
-- 3. create a database update **.env** file.
-- 4. Update **Mail Host and Password** for Email Verification.
-- 5. Run **php artisan migrate && php artisan serve** command to see the demo.
+- Download this project and extract it.
+- Open Command Prompt and Type **Composer Install** and then **npm install && npm run dev**
+- create a database update **.env** file.
+- Update **Mail Host and Password** for Email Verification.
+- Run **php artisan migrate && php artisan serve** command to see the demo.
 
 ## About Author
 
